@@ -9,6 +9,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade São Fra
 ## 🚐 VIPA – Transporte Escolar Inteligente
 
 > Projeto feito em equipe. O código do app é privado; aqui está uma apresentação do que ele faz.
+>
+> 🌍 Site oficial: [vipaapp.web.app](https://vipaapp.web.app)
 
 O VIPA organiza toda a operação de uma van escolar em um só lugar e dá às famílias visibilidade sobre o trajeto dos filhos.
 
@@ -49,7 +51,8 @@ O app tem perfis diferentes para **motorista/administrador**, **responsável** e
 
 Site oficial do VIPA, criado para apresentar a ideia do aplicativo a motoristas e famílias. Feito em **HTML, CSS e JavaScript puros**, sem framework, seguindo a mesma identidade visual do app, com hospedagem no Firebase Hosting.
 
-🔗 Código do site: [felipe44bill/vipasite](https://github.com/felipe44bill/vipasite)
+🌍 **Acesse o site:** [vipaapp.web.app](https://vipaapp.web.app)  
+💻 Código do site: [felipe44bill/vipasite](https://github.com/felipe44bill/vipasite)
 
 ---
 
